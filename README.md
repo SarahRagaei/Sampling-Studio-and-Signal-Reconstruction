@@ -50,6 +50,15 @@ Demonstrates different sampling cases for comprehensive learning and experimenta
 
 ## GUI Overview
 
+### Composer Tab
+![1](Screenshots/composer.png)
+
+### Sampler Tab (Without Noise)
+![2](Screenshots/sampler-no-noise.png)
+
+### Sampler Tab (With Noise Added)
+![3](Screenshots/sampler-noise.png)
+
 ---
 
 ## Requirements
